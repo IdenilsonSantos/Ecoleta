@@ -15,10 +15,6 @@ export async function seed(knex: Knex) {
             image: 'papeis-papelao.svg',
         },
         {
-            title: 'Lâmpadas',
-            image: 'lampadas.svg',
-        },
-        {
             title: 'Resíduos Eletrônicos',
             image: 'eletronicos.svg',
         },
